@@ -10,7 +10,7 @@ Make sure you have Python installed. Then in the terminal:
 ```bash
 python console-calculator.py
 ```
-
+```markdwon
 ## Example
 
 === Console Calculator ===
@@ -21,3 +21,4 @@ Enter the second number: 4
 Result: 48.0
 Do you want to calculate again? (yes/no): no
 Goodbye! :)
+```
